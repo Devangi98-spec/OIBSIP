@@ -14,7 +14,7 @@ Review project details from task
 list, start development, and
 deploy on GitHub.
 
-» Video Showcase
+» Video Showcase                                                                                                   
 
 Create a project demo
 video highlighting key
